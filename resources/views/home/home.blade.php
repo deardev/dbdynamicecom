@@ -450,7 +450,7 @@
                                                 class="wez-menu-text">Home</span></a></li>
                                 <li id="menu-item-1269"
                                     class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children wez-menu-item wez-sub-menu-standard">
-                                    <a href="http://www.doublebattery.com/product-category/eyewear/"
+                                    <a href="{{ url('shop.index')}}"
                                        class="wez-menu-a-text"><span class="wez-menu-text">Eyewear</span><b
                                                 class="wez-caret"></b></a>
                                     <ul class="wez-sub-menu wez-sub-menu-standard wez-list-style-none">
@@ -466,7 +466,7 @@
                                 </li>
                                 <li id="menu-item-1272"
                                     class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children wez-menu-item wez-sub-menu-standard">
-                                    <a href="http://www.doublebattery.com/product-category/sunglasses/"
+                                    <a href="{{ url('shop.index')}}"
                                        class="wez-menu-a-text"><span class="wez-menu-text">Sunglasses</span><b
                                                 class="wez-caret"></b></a>
                                     <ul class="wez-sub-menu wez-sub-menu-standard wez-list-style-none">
