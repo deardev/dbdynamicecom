@@ -25,7 +25,7 @@ step 5: import 'doubleBattery.sql' from database folder of this repository to th
 
 step 6: Run "php artisan serve"
 
-step 7: Click on "Sunglasses" home menu item or the 'shoes' banner at the home page
+step 7: Click on "EYEWEAR" or "SUNGLASSES" menu items or the 'SHOES' banner at the home page
 
 step 8: Click on floral print image
 
