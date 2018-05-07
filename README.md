@@ -16,6 +16,6 @@ step 4: create a database in mysql named "doubleBattery".
 step 5: import 'doubleBattery.sql' from database folder from your project.
 step 6: Run php artisan serve.
 step 7: Click on 'shoes'.
-step 8: Click on floral print.
+step 8: Click on floral print image.
         then update quantity and click on 'add to cart'.
 step 9: see the upper right side corner of the page that quantity is showing and then hovor to see details.
