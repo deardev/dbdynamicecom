@@ -2,7 +2,7 @@
 
 This repo represents the store module for Double Battery (The Optical Studio).
 # dbdynamicecom
-step 1: Run composer install
+step 1: Run composer install/
 step 2: paste a .env file from another project
 step 3: make sure your env file contains...
 
