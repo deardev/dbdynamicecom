@@ -1,7 +1,7 @@
-# doublebattery
+# dbdynamicecom
 
 This repo contains the store module for DoubleBattery (The Optical Studio).
-# dbdynamicecom
+# Build Instructions
 step 1: Clone the repository: "git clone https://github.com/deardev/dbdynamicecom.git"
 
 step 2: Go to the dbdynamicecom directory
