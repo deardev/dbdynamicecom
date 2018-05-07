@@ -12,8 +12,8 @@ step 3: make sure your env file contains...
         DB_DATABASE=doubleBattery
         DB_USERNAME=root
         DB_PASSWORD=
-step 4: create a database in mysql.
-step 5: import '.sql' from database folder from your project.
+step 4: create a database in mysql named "doubleBattery".
+step 5: import 'doubleBattery.sql' from database folder from your project.
 step 6: Run php artisan serve.
 step 7: Click on 'shoes'.
 step 8: Click on floral print.
